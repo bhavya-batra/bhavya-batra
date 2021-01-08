@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on brushing up my skills.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with AI.
-- 💬 Ask me about C,java and DBM
+- 💬 Ask me about C,java and DBMS
 - 📫 How to reach me: G-Mail , linkedin , twitter.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: enthusiastic in sports.
